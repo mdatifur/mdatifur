@@ -1,3 +1,6 @@
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 <h1 align="center">Hi 👋, I'm Atifur Rahaman Shohan</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
@@ -32,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdatifur&show_icons=true&locale=en" alt="mdatifur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdatifur&" alt="mdatifur" /></p>
+

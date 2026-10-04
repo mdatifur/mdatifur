@@ -73,14 +73,12 @@ const atifur = {
   <img src="https://streak-stats.demolab.com/?user=mdatifur&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/2e9afe/mdatifur" alt="Contribution Graph" width="100%" />
-</p>
 
-## ✍️ Random Dev Quote
+
+## ✍️ Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://i.pinimg.com/1200x/be/7e/fa/be7efa96983e8643d14c42306d49f2cc.jpg" alt="Random Dev Quote" />
 </p>
 
 <p align="center">

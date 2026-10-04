@@ -1,6 +1,12 @@
+<p align="center">
+  <!-- Nijer banner image/GIF-er link ekhane dao (pixel-art wallpaper) -->
+  <img src="https://i.pinimg.com/1200x/d7/a0/e0/d7a0e07686e15945172b31787f08ce77.jpg" alt="banner" width="100%" />
+</p>
+
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzEyY3NqeGF3eWViNHh4am5scXBobmVzMGEybjIxc2xvaDYwMTI4diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9f8mk4P3X2Nvch1z2o/giphy.gif"/>
 </div>
+
 <h1 align="center">Hi 👋, I'm Atifur Rahaman Shohan</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
